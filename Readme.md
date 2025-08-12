@@ -3,6 +3,7 @@ This is a Machine Learning project analyzing the popular Advanced Housing Prices
 The goal was to predict house prices by exploring, experimenting, and learning different algorithms.
 
 What I Did->
+
     -EDA (Exploratory Data Analysis)- Identified patterns, correlations, and outliers in the data.
     
     -Feature Engineering- Created new features, transformed skewed data, and applied encoding. Some changes improved results, others lowered performance; learning from both was part of the process.
